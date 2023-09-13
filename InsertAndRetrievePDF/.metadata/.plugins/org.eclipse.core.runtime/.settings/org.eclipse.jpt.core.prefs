@@ -1,0 +1,7 @@
+defaultJpaPlatform_2.1=eclipselink2_5
+defaultJpaPlatform_2.2=generic2_2
+eclipse.preferences.version=1
+entitygen.DEFAULT_PACKAGE=model
+jpqlIdentifier.CASE=lowercase
+jpqlIdentifier.MATCH_FIRST_CHARACTER_CASE=true
+jpqlQueryEditorNumberOfLines=5

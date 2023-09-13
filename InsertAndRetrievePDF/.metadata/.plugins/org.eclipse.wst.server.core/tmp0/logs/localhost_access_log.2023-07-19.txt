@@ -1,0 +1,10 @@
+127.0.0.1 - - [19/Jul/2023:18:45:12 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:45:13 +0530] "GET /SpringMVC/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:45:14 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:46:57 +0530] "GET /SpringMVC/mainPage HTTP/1.1" 200 2799
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:46:57 +0530] "GET /SpringMVC/css/EmployeeCSS.css HTTP/1.1" 200 41
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:50:14 +0530] "POST /SpringMVC/studentLogin HTTP/1.1" 200 409
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:50:47 +0530] "POST /SpringMVC/getStudentDetails HTTP/1.1" 200 419
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:52:01 +0530] "GET /SpringMVC/mainPage HTTP/1.1" 200 2799
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:52:27 +0530] "POST /SpringMVC/date HTTP/1.1" 200 467
+0:0:0:0:0:0:0:1 - - [19/Jul/2023:18:52:37 +0530] "POST /SpringMVC/displayDate HTTP/1.1" 200 83

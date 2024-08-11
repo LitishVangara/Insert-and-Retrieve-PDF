@@ -53,7 +53,7 @@ public class InsertPdf
 			Blob blob = new Blob(instream.readAllBytes (), null);
 			ps.setBlob(6, blob);
 			ps.executeUpdate();
-			System.out.println("Registration Successfull.");
+			System.out.println("Registration Successfull...");
 			connect.close();
 		} 
 		catch (SQLException | IOException e) 

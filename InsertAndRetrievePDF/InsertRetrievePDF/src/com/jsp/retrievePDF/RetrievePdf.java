@@ -44,7 +44,7 @@ public class RetrievePdf
 				if (fileOutputStream != null) 
 				{
 					fileOutputStream.write(rs.getBytes("bookPdf"));
-					System.out.println("Success");
+					System.out.println("Success...");
 				}
 			}
 			else
